@@ -8,4 +8,5 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/Remorselex/clean-code-s1e1/pull/1) in [Remorselex/clean-code-s1e1](https://github.com/Remorselex/clean-code-s1e1)
 <!--END_SECTION:activity-->
