@@ -8,5 +8,5 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Remorselex/clean-code-s1e1/pull/1) in [Remorselex/clean-code-s1e1](https://github.com/Remorselex/clean-code-s1e1)
+1. 💪 Opened PR [#2](https://github.com/Albedo-13/Online-store/pull/2) in [Albedo-13/Online-store](https://github.com/Albedo-13/Online-store)
 <!--END_SECTION:activity-->
